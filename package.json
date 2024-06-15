@@ -1,0 +1,16 @@
+{
+  "name": "body-count",
+  "version": "1.0.0",
+  "description": "What's your body count?",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "minimist": "^1.2.7",
+    "node-fetch": "^3.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
