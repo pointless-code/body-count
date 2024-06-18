@@ -2,7 +2,7 @@
 
 ## About BodyCount?
 
-What's your BodyCount?
+A different BodyCount than you think! What's your number?
 
 ## Pull from docker
 

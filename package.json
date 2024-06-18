@@ -1,7 +1,7 @@
 {
   "name": "body-count",
   "version": "1.0.0",
-  "description": "What's your body count?",
+  "description": "A different BodyCount than you think! What's your number?",
   "main": "index.js",
   "type": "module",
   "scripts": {
